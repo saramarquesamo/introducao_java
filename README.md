@@ -3,4 +3,4 @@
 ##### Variáveis
 ##### O compilador e o bytecode
 ##### A função main()
-##### Exercícios resolvidos
+##### Lista de exercícios resolvidos
