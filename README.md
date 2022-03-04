@@ -13,3 +13,9 @@
 #### Versão: Java 11 LTS
 #### Editor: Intelij
 #### SO: Umbutu 20.04
+
+# Link do curso que estou fazendo
+
+https://www.udemy.com/course/programacao-em-java-essencial/
+
+
