@@ -4,7 +4,12 @@
 
 
 # Aqui você vai encontrar: 
-##### Variáveis em java
-##### O compilador e o bytecode
-##### A função main()
-##### Lista de exercícios resolvidos
+#### Variáveis em java
+#### O compilador e o bytecode
+#### A função main()
+#### Lista de exercícios resolvidos
+
+# O que estou utilizando no meu PC
+#### Versão: Java 11 LTS
+#### Editor: Intelij
+#### SO: Umbutu 20.04
